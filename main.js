@@ -11,7 +11,7 @@
  
 const myApiKey="A8d2b121"; // <<-- I have no idea if this stupid key is working but I only get one. I did not remove it since it is making no difference
  
-const BASE_URL = "http://www.omdbapi.com";
+const BASE_URL = "https://www.omdbapi.com";
  
  
 document.addEventListener('DOMContentLoaded', addEventHandlers);    // calling addEventHandlers function once the html document is loaded.
